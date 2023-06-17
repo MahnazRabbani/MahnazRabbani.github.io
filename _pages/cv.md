@@ -9,51 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**M.Sc. in Computer Science** 2015‑2017  
+UNiVERSiTY OF WESTERN ONTARiO (UWO) London, Ontario  
+- Thesis: The Recurrence‑Based Analysis of Intracranial Pressure
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**M.Sc. in Applied Mathematics (Scientific Computing)** 2013‑2015  
+UNiVERSiTY OF WESTERN ONTARiO (UWO) London, Ontario  
+- Thesis: Evolution of Mobile Promoters in Prokaryotic Genomes
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**B.Sc. in Mathematics** 2007‑2012  
+K. N. TOOSi UNiVERSiTY OF TECHNOLOGY Tehran, Iran
+
+# Skills
+
+- Programming: Extensive experience with Python (NumPy, Matplotlib, Pandas, ...), SQL and R
+- Machine Learning: Scikit‑Learn, TensorFlow, Keras, PyTorch, Fastai
+- Cloud platform: Amazon AWS, Google Cloud Platform (GCP), Compute Canada
+- Other Software/Tools: Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack
+- Soft Skills: Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation
+
+# Work Experience
+
+**Entrepreneurial Data Scientist** Jan 2022‑Jan 2023  
+SELF‑EMPLOYED  
+During this period, I focused on enhancing both my entrepreneurial and technical expertise. I focused on an entrepreneurial venture aimed at enhancing and redefining the online flower shop experience. My responsibilities and accomplishments during this time encompassed:
+- Performing in‑depth market research and data analysis to uncover opportunities and trends
+- Investigating product design research and suggesting innovative solutions
+- Identifying processes that could be optimized using AI techniques, driving efficiency and novelty
+- Pursuing continuous improvement in data science skills especially big data and cloud technologies.
+
+**Data Scientist** Nov 2018‑Nov 2021  
+BEHAViOUR INTERACTiVE INC. ViDEO GAME DEVELOPMENT STUDiO Montreal, QC  
+Successfully managed and delivered multiple data science projects from concept to implementation and presentation, collaborating with cross‑functional teams, including data engineering, product management, and community management to drive business growth and improve decision‑making capabilities:
+- Key Performance Indicator (KPI) projection
+- User retention analysis
+- User churn prediction
+- KPI calculator
+- Customer lifetime value (LTV) prediction
+- User profiling
+- Various ad‑hoc data analytic tasks
+
+**Research & Teaching Assistant** 2013‑2018  
+UNiVERSiTY OF WESTERN ONTARiO. MATHEMATiCS AND COMPUTER SCiENCE DEPARTMENTS London, ON  
+- Teaching: Multimedia and Communications, Computer Science Fundamentals I, Python Programming, BioCalculus, Calculus 2, Calculus 1
+- Research: Worked on multiple research projects using mathematical modeling, data mining, applied machine learning, and data analysis methods. Published one first‑authored refereed article.
+
+# Presentations
+
+- The Recurrence‑Based Approach for Brain Data Analysis, presentation at the 2017 AMMCS Congress Interdisciplinary Applied Mathematics, Modeling and Computational Science Conference Series; Waterloo, Ontario, Canada; August 20‑25, 2017.
+- Statistical Data Analysis for Genomics and Neurology: Example Cases of Analysis of Prokaryotic Genome Evolution and Intracranial Pressure Signals; poster presented at the Fallona Interdisciplinary Showcase; London, Ontario; January 16, 2017.
+- A Location‑Based Model for a Newly Proposed Class of
