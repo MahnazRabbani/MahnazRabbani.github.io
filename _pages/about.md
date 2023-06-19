@@ -40,3 +40,4 @@ Thesis: The Recurrence‑Based Analysis of Intracranial Pressure
 Thesis: Evolution of Mobile Promoters in Prokaryotic Genomes
 
 **B.Sc. in Mathematics** | *K. N. TOOSi UNiVERSiTY OF TECHNOLOGY* | 2007-2012
+
