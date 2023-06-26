@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mahnaz Rabbani"
-  avatar           : "profile2" #"profile.png"
+  avatar           : "profile2.jpg" #"profile.png"
   bio              : "Data and ML Scientist"
   location         : # "Location"
   employer         :
