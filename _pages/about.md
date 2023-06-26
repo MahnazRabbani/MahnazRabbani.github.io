@@ -11,7 +11,7 @@ redirect_from:
 
 More specifically, I'm fascinated by the transformative potential of Large Language Models and the fresh opportunities they bring. My optimism for AI's future fuels my passion to look for new ideas and applications, while maintaining a keen awareness of AI safety. I believe together, we can shape a future where AI significantly amplifies human freedom and advancement.
 
-## I have Data, Machine Learning, and Programming Skills ...
+### I have Data, Machine Learning, and Programming Skills ...
 
 - **Programming:** Python (NumPy, Matplotlib, Pandas), SQL, R
 - **Machine Learning:** Scikit‑Learn, TensorFlow, Keras, PyTorch, Fastai
