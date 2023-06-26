@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## I am an AI and Tech Enthusiast 
+## I am an AI and Tech Enthusiast ...
 
 More specifically, I'm fascinated by the transformative potential of Large Language Models and the fresh opportunities they bring. My optimism for AI's future fuels my passion to look for new ideas and applications, while maintaining a keen awareness of AI safety. I believe together, we can shape a future where AI significantly amplifies human freedom and advancement.
 
-## Skills
+## I have Data, Machine Learning, and Programming Skills ...
 
 - **Programming:** Python (NumPy, Matplotlib, Pandas), SQL, R
 - **Machine Learning:** Scikit‑Learn, TensorFlow, Keras, PyTorch, Fastai
@@ -20,7 +20,7 @@ More specifically, I'm fascinated by the transformative potential of Large Langu
 - **Other Software/Tools:** Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack
 - **Soft Skills:** Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation
 
-## Experience
+## I have Research, Industry, and Entrepreneurial Experience
 
 **Entrepreneurial Data Scientist** | *SELF‑EMPLOYED* | Jan 2022‑Jan 2023  
 Focused on an entrepreneurial venture aimed at enhancing and redefining the online flower shop experience. Performed in‑depth market research, data analysis, product design research, and identified AI-optimized processes.
