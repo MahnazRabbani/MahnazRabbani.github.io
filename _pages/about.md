@@ -30,7 +30,7 @@ More specifically, I'm fascinated by the transformative potential of Large Langu
 
 ### Professional Experience: Research, Industry, and Entrepreneurship    
 
-- **Entrepreneurial Data Scientist** | *Self-employed* | Jan 2022‑Jan 2023  
+- **Entrepreneurial Data Scientist** | *Self-Employed* | Jan 2022‑Jan 2023  
 <!-- Focused on an entrepreneurial venture aimed at enhancing and redefining the online flower shop experience. Performed in‑depth market research, data analysis, product design research, and identified AI-optimized processes. -->
 
 - **Data Scientist** | *Behaviour Interactive inc* | Nov 2018‑Nov 2021  
