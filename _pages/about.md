@@ -33,7 +33,7 @@ More specifically, I'm fascinated by the transformative potential of Large Langu
 - **Entrepreneurial Data Scientist** | *Self-Employed* | Jan 2022‑Jan 2023  
 <!-- Focused on an entrepreneurial venture aimed at enhancing and redefining the online flower shop experience. Performed in‑depth market research, data analysis, product design research, and identified AI-optimized processes. -->
 
-- **Data Scientist** | *Behaviour Interactive inc* | Nov 2018‑Nov 2021  
+- **Data Scientist** | *Behaviour Interactive Inc* | Nov 2018‑Nov 2021  
 <!-- Managed and delivered multiple data science projects from concept to implementation and presentation. Work included KPI projection, user retention analysis, user churn prediction, KPI calculator, customer lifetime value (LTV) prediction, user profiling, and ad‑hoc data analytic tasks. -->
 
 - **Research & Teaching Assistant** | *Western University* | 2013‑2018  

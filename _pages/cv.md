@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,35 +8,38 @@ redirect_from:
 ---
 {% include base_path %}
 
+
+
 # Education
-- M.Sc. in Computer Science 2015‑2017  
+- **M.Sc. in Computer Science**, 2015‑2017  
    University of Western Ontario (UWO) London, Ontario  
   - Thesis: The Recurrence‑Based Analysis of Intracranial Pressure
   
-- M.Sc. in Applied Mathematics (Scientific Computing) 2013‑2015  
+- **M.Sc. in Applied Mathematics (Scientific Computing)**, 2013‑2015  
   University of Western Ontario (UWO) London, Ontario  
   - Thesis: Evolution of Mobile Promoters in Prokaryotic Genomes
   
-- B.Sc. in Mathematics 2007‑2012  
+- **B.Sc. in Mathematics**, 2007‑2012  
   K. N. Toosi University OF Technology Tehran, Iran
 
 # Skills
-- Programming: Extensive experience with Python (NumPy, Matplotlib, Pandas, ...), SQL and R
-- Machine Learning: Scikit‑Learn, TensorFlow, Keras, PyTorch,  HuggingFace, Fastai
-- Cloud platform: Amazon AWS, Google Cloud Platform (GCP), Compute Canada
-- Other Software/Tools: Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack
-- Soft Skills: Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation
+- **Programming**: Extensive experience with Python (NumPy, Matplotlib, Pandas, ...), SQL and R
+- **Machine Learning**: Scikit‑Learn, TensorFlow, Keras, PyTorch,  HuggingFace, Fastai
+- **Cloud platform**: Amazon AWS, Google Cloud Platform (GCP), Compute Canada
+- **Other Software/Tools**: Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack
+- **Soft Skills**: Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation
 
 # Work Experience
-## Entrepreneurial Data Scientist Jan 2022‑Jan 2023
-SELF‑EMPLOYED
+
+## Entrepreneurial Data Scientist
+SELF‑EMPLOYED, Jan 2022‑Jan 2023
 - Performing in‑depth market research and data analysis to uncover opportunities and trends
 - Investigating product design research and suggesting innovative solutions
 - Identifying processes that could be optimized using AI techniques, driving efficiency and novelty
 - Pursuing continuous improvement in data science skills especially big data and cloud technologies.
 
-## Data Scientist Nov 2018‑Nov 2021
-BEHAViOUR INTERACTiVE INC. ViDEO GAME DEVELOPMENT STUDiO Montreal, QC
+## Data Scientist 
+Behaviour Interactive Inc. Video Game Development Studio, Montreal, QC. Nov 2018‑Nov 2021
 - Key Performance Indicator (KPI) projection
 - User retention analysis
 - User churn prediction
@@ -45,8 +48,8 @@ BEHAViOUR INTERACTiVE INC. ViDEO GAME DEVELOPMENT STUDiO Montreal, QC
 - User profiling
 - Various ad‑hoc data analytic tasks
 
-## Research & Teaching Assistant 2013‑2018
-University of Western Ontario. MATHEMATiCS AND COMPUTER SCiENCE DEPARTMENTS London, ON
+## Research & Teaching Assistant 
+University of Western Ontario. MATHEMATiCS AND COMPUTER SCiENCE DEPARTMENTS London, ON. 2013‑2018
 - Teaching
 - Research
 
