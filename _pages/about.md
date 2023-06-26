@@ -22,13 +22,11 @@ More specifically, I'm fascinated by the transformative potential of Large Langu
 
 ### I Have an Academic Background in Mathematics and Computer Science ...
 
-**M.Sc. in Computer Science** | Western University (UWO)
+- **M.Sc. in Computer Science** | Western University (UWO)      
 Thesis: The Recurrence‑Based Analysis of Intracranial Pressure
-
-**M.Sc. in Applied Mathematics (Scientific Computing)** | Western University 
+- **M.Sc. in Applied Mathematics (Scientific Computing)** | Western University         
 Thesis: Evolution of Mobile Promoters in Prokaryotic Genomes
-
-**B.Sc. in Mathematics** | *KNT University of Technology* 
+- **B.Sc. in Mathematics** | *KNT University of Technology* 
 
 
 ### I have Research, Industry, and Entrepreneurial Experience ...
@@ -44,3 +42,4 @@ Conducted multiple research projects using mathematical modeling, data mining, a
 
 ### I 
 
+ o
