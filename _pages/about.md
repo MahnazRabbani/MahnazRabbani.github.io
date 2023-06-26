@@ -20,17 +20,18 @@ More specifically, I'm fascinated by the transformative potential of Large Langu
 - **Other Software/Tools:** Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack
 - **Soft Skills:** Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation
 
-## I Have an Academic Background in Mathematics and Computer Science ...
+### I Have an Academic Background in Mathematics and Computer Science ...
 
-**M.Sc. in Computer Science** | *UNiVERSiTY OF WESTERN ONTARiO (UWO)* | 2015-2017  
+**M.Sc. in Computer Science** | Western University (UWO)
 Thesis: The Recurrence‑Based Analysis of Intracranial Pressure
 
-**M.Sc. in Applied Mathematics (Scientific Computing)** | *UNiVERSiTY OF WESTERN ONTARiO (UWO)* | 2013-2015  
+**M.Sc. in Applied Mathematics (Scientific Computing)** | Western University 
 Thesis: Evolution of Mobile Promoters in Prokaryotic Genomes
 
-**B.Sc. in Mathematics** | *K. N. TOOSi UNiVERSiTY OF TECHNOLOGY* | 2007-2012
+**B.Sc. in Mathematics** | *KNT University of Technology* 
 
-## I have Research, Industry, and Entrepreneurial Experience ...
+
+### I have Research, Industry, and Entrepreneurial Experience ...
 
 **Entrepreneurial Data Scientist** | *SELF‑EMPLOYED* | Jan 2022‑Jan 2023  
 Focused on an entrepreneurial venture aimed at enhancing and redefining the online flower shop experience. Performed in‑depth market research, data analysis, product design research, and identified AI-optimized processes.
@@ -41,5 +42,5 @@ Managed and delivered multiple data science projects from concept to implementat
 **Research & Teaching Assistant** | *UNiVERSiTY OF WESTERN ONTARiO* | 2013‑2018  
 Conducted multiple research projects using mathematical modeling, data mining, applied machine learning, and data analysis methods. Taught various subjects including Multimedia and Communications, Computer Science Fundamentals I, Python Programming, BioCalculus, and Calculus.
 
-## I 
+### I 
 
