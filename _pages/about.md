@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Data and ML Scientist | AI and Tech Enthusiast  
+## I am an AI and Tech Enthusiast 
 
-Results‑oriented data scientist with over 7 years of experience specializing in driving business growth and improving decision‑making capabilities. Passionate about leveraging AI technologies for entrepreneurial success and business growth.
+More specifically, I'm fascinated by the transformative potential of Large Language Models and the fresh opportunities they bring. My optimism for AI's future fuels my passion to look for new ideas and applications, while maintaining a keen awareness of AI safety. I believe together, we can shape a future where AI significantly amplifies human freedom and advancement.
 
 ## Skills
 

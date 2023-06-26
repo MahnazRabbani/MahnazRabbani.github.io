@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mahnaz's Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mahnaz Rabbani"
 description              : &description "Data and ML Scientist"
