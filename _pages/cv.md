@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-
-
-
 # Education
 - **M.Sc. in Computer Science**, 2015‑2017  
    University of Western Ontario (UWO) London, Ontario  
@@ -29,8 +26,7 @@ redirect_from:
 - **Other Software/Tools**: Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack
 - **Soft Skills**: Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation
 
-# Work Experience
-
+# Work Experience   
 ## Entrepreneurial Data Scientist
 SELF‑EMPLOYED, Jan 2022‑Jan 2023
 - Performing in‑depth market research and data analysis to uncover opportunities and trends
