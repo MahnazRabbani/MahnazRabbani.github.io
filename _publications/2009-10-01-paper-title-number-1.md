@@ -2,7 +2,7 @@
 title: "The dynamics of mobile promoters: Enhanced stability in promoter regions."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: Detecteddistinguishable patterns in the RPs, highlighting the potentialformachinelearning applications
+excerpt: 'Detecteddistinguishable patterns in the RPs, highlighting the potentialformachinelearning applications
 in understanding and predicting ICP behavior'
 date: 2016-10-21
 venue: ' Journal of Theoretical Biology'
