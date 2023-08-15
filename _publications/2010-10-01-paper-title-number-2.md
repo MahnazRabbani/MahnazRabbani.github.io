@@ -1,12 +1,12 @@
 ---
-title: "The Recurrence‑Based Analysis of Intracranial Pressure. "
+title: "The Recurrence‑Based Analysis of Intracranial Pressure"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2017-10-01
 venue: 'Master's degree dissertation'
 paperurl: 'https://ir.lib.uwo.ca/etd/5156/'
-citation: 'Rabbani, Mahnaz, "The Recurrence-Based Analysis of Intracranial Pressure" (2017). Electronic Thesis and Dissertation Repository. 5156.'
+citation: 'Rabbani, Mahnaz, The Recurrence-Based Analysis of Intracranial Pressure (2017). Electronic Thesis and Dissertation Repository. 5156.'
 ---
 
 [Download paper here](https://ir.lib.uwo.ca/etd/5156/)

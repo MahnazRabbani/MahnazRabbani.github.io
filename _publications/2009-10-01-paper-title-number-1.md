@@ -1,5 +1,5 @@
 ---
-title: "The dynamics of mobile promoters: Enhanced stability in promoter regions."
+title: "The dynamics of mobile promoters: Enhanced stability in promoter regions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
