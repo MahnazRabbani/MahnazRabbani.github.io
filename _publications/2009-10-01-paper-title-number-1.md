@@ -6,11 +6,11 @@ excerpt: ''
 date: 2016-10-21
 venue: ' Journal of Theoretical Biology'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0022519316302132'
-citation: 'Mahnaz Rabbani, Lindi M. Wahl, The dynamics of mobile promoters: Enhanced stability in promoter regions, Journal of Theoretical Biology, Volume 407, 2016 Pages 401-408, ISSN 0022-5193'
+citation: 'Mahnaz Rabbani, Lindi M. Wahl, The dynamics of mobile promoters: Enhanced stability in promoter regions, Journal of Theoretical Biology, Volume 407, 2016 Pages 401-408, ISSN 0022-5193.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0022519316302132)
+
 
 **Abstract**    
 
