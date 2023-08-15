@@ -19,12 +19,35 @@ redirect_from:
 - **B.Sc. in Mathematics**, 2007‑2012  
   K. N. Toosi University OF Technology Tehran, Iran
 
-# Skills
-- **Programming**: Extensive experience with Python (NumPy, Matplotlib, Pandas, ...), SQL and R
-- **Machine Learning**: Scikit‑Learn, TensorFlow, Keras, PyTorch,  HuggingFace, Fastai
-- **Cloud platform**: Amazon AWS, Google Cloud Platform (GCP), Compute Canada
-- **Other Software/Tools**: Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack
-- **Soft Skills**: Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation
+# Skills             
+- **Programming**: Extensive experience with Python (NumPy, Matplotlib, Pandas, ...), SQL and R             
+- **Machine Learning**: Scikit‑Learn, TensorFlow, Keras, PyTorch,  HuggingFace, Fastai             
+- **Cloud platform**: Amazon AWS, Google Cloud Platform (GCP), Compute Canada             
+- **Other Software/Tools**: Jupyter Notebook, Bash scripting, Jira, LATEX, Git, Slack             
+- **Soft Skills**: Communication and presentation skills, project planning and organizing, Agile project management, report, and project documentation             
+
+• **Programming Languages**: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit‑learn), SQL, R             
+• **Machine Learning & Deep Learning**:             
+– **Frameworks**: PyTorch, HuggingFace Transformers, Scikit‑Learn, TensorFlow/Keras             
+– **Algorithms**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, KNN, XG‑             
+Boost, CNN, RNN, LSTM, Transformers, GANs             
+– **Transfer Learning**: Experience with fine‑tuning pre‑trained models such as ResNet, ViT, BERT, GPT3           
+– **Tasks**: Experience with different DL tasks such as text classification, text generation, image classification, image segmentation, object detection
+• **Natural Language Processing**:
+– **Libraries**: Spacy, NLTK, Gensim
+– **Models**: Experience with Transformer models like BERT, GPT‑3, and finetuning large models
+– **Platforms**: Experience with HuggingFace ecosystem
+• **Data Analysis & Visualization**:
+– **EDA**: Data preprocessing, manipulation, and analysis
+– **Data visualization**: Matplotlib, Seaborn, Tableau, data storytelling and report generation
+• **Technical Tools & Platforms**:
+– **Cloud Computing**: Amazon AWS(S3), Compute Canada, Google Colab
+– **Software & Tools**: Jupyter Notebook, Git & GitHub, Unix/Linux command line tools, Jira, LaTeX, Gradio,
+Streamlit
+• **Soft Skills**: Communication and presentation, problem‑solving, teamwork, project planning and organizing,
+Agile project management, report and project documentation
+
+
 
 # Work Experience   
 ## Entrepreneurial Data Scientist
