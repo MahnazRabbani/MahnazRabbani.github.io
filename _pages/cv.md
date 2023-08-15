@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
+[Download CV here](https://ir.lib.uwo.ca/etd/5156/)
+
 # Education
 - **M.Sc. in Computer Science**, 2015‑2017  
    University of Western Ontario (UWO) London, Ontario  
