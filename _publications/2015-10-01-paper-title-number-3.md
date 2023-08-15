@@ -9,7 +9,7 @@ paperurl: 'https://ir.lib.uwo.ca/etd/3338/'
 citation: 'Rabbani, Mahnaz, "Evolution of Mobile Promoters in Prokaryotic Genomes." (2015). Electronic Thesis and Dissertation Repository. 3338.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ir.lib.uwo.ca/etd/3338/)
 
 Abstract    
 

@@ -11,7 +11,7 @@ citation: 'Rabbani, Mahnaz, "The Recurrence-Based Analysis of Intracranial Press
 
 [Download paper here](https://ir.lib.uwo.ca/etd/5156/)
 
-Abstract    
+**Abstract**    
 
 Modern computational approaches tied together with the power of mathematical science has pushed us closer to reach a deeper understanding of complex dynamical systems. Real-world biological and physiological systems now can be studied on account of the accessibility to fast, cheap and powerful computers. In particular, the field of neuroscience and brain data analysis has grown significantly in the recent years. Recurrence plots (RPs) are a relatively new approach for the analysis of nonlinear, non-stationary and noisy data. Rooted in topological properties of the system, RP visualizes the recurrence states of the dynamical system. Armed with the recurrence quantification measures, RP is even more rigorous in exploring and quantifying real-world dynamical system.
 
