@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2016-10-21
 venue: ' Journal of Theoretical Biology'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0022519316302132'
+paperurl: ''
 citation: 'Mahnaz Rabbani, Lindi M. Wahl, The dynamics of mobile promoters: Enhanced stability in promoter regions, Journal of Theoretical Biology, Volume 407, 2016 Pages 401-408, ISSN 0022-5193.'
 ---
 
