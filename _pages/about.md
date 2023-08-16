@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 **I believe together, we can shape a future where AI significantly amplifies human freedom and advancement.**
 
 **Past**: Experienced Data Scientist with a focus on real-world machine learning applications.
-**Present**: Experimenting with advanced deep learning models, esp. large pre-trained Transformers.
+**Present**: Experimenting with advanced deep learning models, esp. large pre-trained Transformers.         
 **Future**: Aspiring to enhance productivity and profitability through advanced AI technologies.
 
 <!-- 

@@ -27,7 +27,6 @@ redirect_from:
   - **Cloud Computing**: Amazon AWS(S3), Compute Canada, Google Colab            
   - **Software & Tools**: Jupyter Notebook, Git & GitHub, Unix/Linux command line tools, Jira, LaTeX, Gradio, Streamlit            
 - **Soft Skills**: Communication and presentation, problem‑solving, teamwork, project planning and organizing, Agile project management, report and project documentation            
-
 ## Education      
 - **M.Sc. in Computer Science**, 2015‑2017           
    University of Western Ontario (UWO) London, Ontario            
@@ -37,7 +36,6 @@ redirect_from:
   - Thesis: Evolution of Mobile Promoters in Prokaryotic Genomes        
 - **B.Sc. in Mathematics**, 2007‑2012         
   K. N. Toosi University OF Technology Tehran, Iran          
-
 ## Work Experience       
 - **Machine Learning Engineer**            
   FloraAI, Independent project, Jan 2022‑Jan 2023
@@ -47,7 +45,6 @@ redirect_from:
   - Investigating product design research and suggesting innovative solutions
   - Identifying processes that could be optimized using AI techniques, driving efficiency and novelty
   - Pursuing continuous improvement in data science skills especially big data and cloud technologies.
-
 
 - **Data Scientist**           
   Behaviour Interactive Inc. Video Game Development Studio, Montreal, QC. Nov 2018‑Nov 2021          
