@@ -12,7 +12,7 @@ redirect_from:
 
 **Past**: Experienced Data Scientist with a focus on real-world machine learning applications.
 **Present**: Experimenting with advanced deep learning models, esp. large pre-trained Transformers.         
-**Future**: Aspiring to enhance productivity and profitability through advanced AI technologies.
+**Future**: Aspiring to enhance productivity and profitability through advanced AI technologies.          
 
 <!-- 
 ## I am an AI and Tech Enthusiast 
