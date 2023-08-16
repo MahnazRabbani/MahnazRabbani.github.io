@@ -1,22 +1,18 @@
 ---
 layout: archive
-title: "Projects"
+title: "Industry Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 
-Successfully managed and delivered multiple data science projects from concept to implementation and
-presentation, collaborating with cross‑functional teams, including data engineering, product manage‑
-ment, and community management to drive business growth and improve decision‑making capabilities:
+I successfully managed and delivered multiple data science projects from concept to implementation and
+presentation, collaborating with cross‑functional teams, including data engineering, product management, and community management to drive business growth and improve decision‑making capabilities:      
 
 • **Key Performance Indicator (KPI) projection**     
-– Led, managed and executed the project for predicting key product metrics such as Daily Active Users
-(DAU), Daily New Users (DNU), and purchases.           
-– Utilized the Prophet package from Meta Research to model time series data of approximately one year
-of KPIs and other significant features, such as the product event calendar.           
-– Collaborated with data development and analysis teams to fetch and analyze data from multiple
-sources and create a Tableau dashboard to present the results for internal clients.           
+– Led, managed and executed the project for predicting key product metrics such as Daily Active Users (DAU), Daily New Users (DNU), and purchases.           
+– Utilized the Prophet package from Meta Research to model time series data of approximately one year of KPIs and other significant features, such as the product event calendar.           
+– Collaborated with data development and analysis teams to fetch and analyze data from multiple sources and create a Tableau dashboard to present the results for internal clients.           
 
 
 • **User retention analysis**     
@@ -30,21 +26,16 @@ sources and create a Tableau dashboard to present the results for internal clien
 
 
 **• KPI calculator**         
-– Developed an app using Streamlit that enables stakeholders to conduct simulations based on different
-business scenarios and make informed decisions for future marketing and user acquisition campaigns.           
-– Acting also as a product manager, I led and executed the project working closely with the internal client
-to understand their needs and ensure a successful outcome.           
+– Developed an app using Streamlit that enables stakeholders to conduct simulations based on different business scenarios and make informed decisions for future marketing and user acquisition campaigns.           
+– Acting also as a product manager, I led and executed the project working closely with the internal client to understand their needs and ensure a successful outcome.           
 
 
 • **Customer lifetime value (LTV) prediction**        
-– Developed a model to predict LTV using RFM (recency, frequency, monetary) and user engagement data
-and XGBoost algorithm.           
-– Predictions allowed stakeholders to make more informed business decisions and helped profile and
-target users depending on their future lifetime value.           
+– Developed a model to predict LTV using RFM (recency, frequency, monetary) and user engagement data and XGBoost algorithm.           
+– Predictions allowed stakeholders to make more informed business decisions and helped profile and target users depending on their future lifetime value.           
 
 
 • **User profiling**       
-– Utilized KNN clustering algorithm to group and profile different cohorts of players based on engagement
-and purchase data.           
+– Utilized KNN clustering algorithm to group and profile different cohorts of players based on engagement and purchase data.           
 – Analyzed characteristics of various user groups to gain valuable insights.           
 – Used results as the foundation for additional projects and initiatives.           
