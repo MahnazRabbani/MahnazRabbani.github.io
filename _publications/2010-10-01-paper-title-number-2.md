@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2017-10-01
-venue: 'Master's degree dissertation'   
+venue: 'Masters degree dissertation'   
 paperurl: ' '
 citation: 'Rabbani, Mahnaz, The Recurrence-Based Analysis of Intracranial Pressure (2017). Electronic Thesis and Dissertation Repository. 5156.'
 ---

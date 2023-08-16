@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2015-10-01
-venue: 'Master's degree dissertation'
-paperurl: 'https://ir.lib.uwo.ca/etd/3338/'
+venue: 'Masters degree dissertation'
+paperurl: ' '
 citation: 'Rabbani, Mahnaz, Evolution of Mobile Promoters in Prokaryotic Genomes. (2015). Electronic Thesis and Dissertation Repository. 3338.'
 ---
 
