@@ -44,7 +44,7 @@ redirect_from:
   - Performing in‑depth market research and data analysis to uncover opportunities and trends
   - Investigating product design research and suggesting innovative solutions
   - Identifying processes that could be optimized using AI techniques, driving efficiency and novelty
-  - Pursuing continuous improvement in data science skills especially big data and cloud technologies.
+
 
 - **Data Scientist**           
   Behaviour Interactive Inc. Video Game Development Studio, Montreal, QC. Nov 2018‑Nov 2021          
